@@ -106,9 +106,3 @@ Meu objetivo é atuar profissionalmente como Engenheiro de Dados.
 - Email: canaldarkbreno@gmail.com
 
 ---
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenocampos13&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenocampos13&show_icons=true)
