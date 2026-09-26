@@ -1,41 +1,32 @@
-# Olá, eu sou Breno Campos Franco 👋
+# Olá, eu sou o Breno 👋
 
-🎯 Estagiário em Análise de Dados e estudante de Ciência de Dados.
+Estudante de Ciência de Dados e Estagiário em Análise de Dados.
 
-Atualmente estou construindo minha transição para Engenharia de Dados através de projetos práticos focados em ETL, APIs, bancos de dados e automação de pipelines.
+Atualmente estou construindo minha carreira em Engenharia de Dados, desenvolvendo projetos focados em ingestão, transformação, modelagem e orquestração de dados.
 
----
-
-## 🚀 Tecnologias
-
-### Dados
+## Tecnologias
 
 - SQL
 - PostgreSQL
-- Power BI
-- Excel
-
-### Engenharia de Dados
-
 - Python
 - ETL / ELT
-- Consumo de APIs REST
 - Docker
-- Git & GitHub
-
-### Atualmente estudando
-
 - dbt
 - Apache Airflow
-- AWS S3
+- Git
+- GitHub
 
----
+## Projetos
 
-## 📌 Projetos em Destaque
+### Projeto Engenharia de Dados
 
-### 🏗️ Projeto Engenharia de Dados
+Pipeline completo utilizando:
 
-Projeto desenvolvido para praticar fundamentos de Engenharia de Dados utilizando uma arquitetura de Data Warehouse em camadas.
+- PostgreSQL
+- Python
+- Docker
+- dbt
+- Apache Airflow
 
 Arquitetura:
 
@@ -49,60 +40,32 @@ STAGING
 ANALYTICS
 ```
 
-Tecnologias:
+Principais conceitos praticados:
 
-- PostgreSQL
-- Python
-- Docker
-- Git
-
----
-
-### 🌐 Projeto Consumo API
-
-Pipeline completo de ingestão e transformação de dados consumindo uma API pública.
-
-Fluxo:
-
-```text
-ViaCEP API
-    ↓
-Python
-    ↓
-PostgreSQL RAW
-    ↓
-PostgreSQL DIM
-    ↓
-Google Sheets
-```
-
-Tecnologias:
-
-- Python
-- Requests
-- PostgreSQL
-- Google Sheets API
-- Docker
-
----
-
-## 📈 Objetivo Atual
-
-Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados com foco em:
-
-- Modelagem de dados
-- ETL e ELT
-- Integração com APIs
+- Data Warehouse
+- ETL / ELT
+- Modelagem de Dados
+- Dockerização
 - Orquestração de pipelines
-- Cloud Computing
+- Testes de qualidade com dbt
 
-Meu objetivo é atuar profissionalmente como Engenheiro de Dados.
+### Projeto Consumo API
 
----
+Projeto desenvolvido para praticar integração com APIs REST.
 
-## 📫 Contato
+Principais conceitos:
 
-- LinkedIn: www.linkedin.com/in/breno-franco
+- Consumo de APIs
+- JSON
+- PostgreSQL
+- Google Sheets
+- Automação de processos
+
+## Objetivo
+
+Meu objetivo é atuar como Engenheiro de Dados, desenvolvendo pipelines escaláveis, arquiteturas modernas de dados e soluções orientadas por dados.
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/breno-franco/
 - Email: canaldarkbreno@gmail.com
-
----
