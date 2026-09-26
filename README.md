@@ -1,8 +1,12 @@
 # Olá, eu sou o Breno 👋
 
-Estudante de Ciência de Dados e Estagiário em Análise de Dados.
+🎯 Estagiário em Análise de Dados
 
-Atualmente estou construindo minha carreira em Engenharia de Dados, desenvolvendo projetos focados em ingestão, transformação, modelagem e orquestração de dados.
+📚 Tecnólogo em Ciência de Dados
+
+🚀 Focado em Engenharia de Dados
+
+🛠️ SQL | Python | PostgreSQL | Docker | dbt | Airflow
 
 ## Tecnologias
 
