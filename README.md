@@ -64,8 +64,3 @@ Principais conceitos:
 ## Objetivo
 
 Meu objetivo é atuar como Engenheiro de Dados, desenvolvendo pipelines escaláveis, arquiteturas modernas de dados e soluções orientadas por dados.
-
-## Contato
-
-- LinkedIn: https://www.linkedin.com/in/breno-franco/
-- Email: canaldarkbreno@gmail.com
