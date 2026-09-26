@@ -6,8 +6,6 @@
 
 🚀 Focado em Engenharia de Dados
 
-🛠️ SQL | Python | PostgreSQL | Docker | dbt | Airflow
-
 ## Tecnologias
 
 - SQL
@@ -17,54 +15,39 @@
 - Docker
 - dbt
 - Apache Airflow
-- Git
-- GitHub
+- Git & GitHub
 
-## Projetos
+## Projetos em Destaque
 
 ### Projeto Engenharia de Dados
 
-Pipeline completo utilizando:
+Pipeline completo utilizando PostgreSQL, Python, Docker, dbt e Apache Airflow.
 
-- PostgreSQL
-- Python
-- Docker
-- dbt
-- Apache Airflow
-
-Arquitetura:
-
-```text
-OLTP
- ↓
-RAW
- ↓
-STAGING
- ↓
-ANALYTICS
-```
-
-Principais conceitos praticados:
+Principais conceitos:
 
 - Data Warehouse
 - ETL / ELT
 - Modelagem de Dados
 - Dockerização
 - Orquestração de pipelines
-- Testes de qualidade com dbt
+- Testes de qualidade
 
 ### Projeto Consumo API
 
-Projeto desenvolvido para praticar integração com APIs REST.
+Projeto focado em integração de APIs, armazenamento em PostgreSQL e automação de processos.
 
 Principais conceitos:
 
-- Consumo de APIs
+- APIs REST
 - JSON
 - PostgreSQL
 - Google Sheets
-- Automação de processos
+- Automação
 
 ## Objetivo
 
-Meu objetivo é atuar como Engenheiro de Dados, desenvolvendo pipelines escaláveis, arquiteturas modernas de dados e soluções orientadas por dados.
+Atualmente busco oportunidades para atuar com Engenharia de Dados, contribuindo na construção de pipelines, modelagem de dados e soluções de análise.
+
+## Contato
+
+LinkedIn: linkedin.com/in/breno-franco/
